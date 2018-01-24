@@ -1,6 +1,6 @@
 # Midnight Commander Reference card
 
-⚠ *under construction*
+&#9888; *under construction*
 
 ## Keybinding
 

@@ -1,4 +1,8 @@
-# M (alt)
+# Midnight Commander Reference card
+
+## Keybinding
+
+### M (alt)
 
 - Quick change directory: M + c
 - Quick change directory history: M + c and then M + h
@@ -16,7 +20,7 @@
 - Go to previous directory: M + y
 - Search pop-up: M + ?
 
-# Ctrl
+### Ctrl
 
 - Refresh active panel: Ctrl + r
 - Selecting files and directories: Ctrl + t
@@ -24,7 +28,7 @@
 - Switch active <-> inactive panels content: Ctrl + u
 - Execute command / Open a directory: Ctrl + j
 
-# F
+### F
 
 - F1: help
 - F2: user menu
@@ -37,7 +41,8 @@
 - F9: open menu bar
 - F10: exit MC
 
+
 # Credit
 
-- Copied from: http://pastebin.com/i9kfVKT9
 - [Midnight Commander Keyboard Shortcuts for Mac OSX](https://gist.github.com/sgergely/3793166)
+  - http://pastebin.com/i9kfVKT9
